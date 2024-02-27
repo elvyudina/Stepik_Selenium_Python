@@ -1,4 +1,7 @@
-
+# Открыть страницу http://suninjuly.github.io/file_input.html
+# Заполнить текстовые поля: имя, фамилия, email
+# Загрузить файл. Файл должен иметь расширение .txt и может быть пустым
+# Нажать кнопку "Submit"
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
